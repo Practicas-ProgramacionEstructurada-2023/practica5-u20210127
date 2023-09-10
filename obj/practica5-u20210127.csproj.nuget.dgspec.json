@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Moises Carranza\\Desktop\\Practicas_Ciclo 2 - 2023\\Programación Estructurada\\Repositorio_Practicas\\practica5-u20210127\\practica5-u20210127.csproj": {}
+    "c:\\Users\\Moises Carranza\\Desktop\\Practicas_Ciclo 2 - 2023\\Programación Estructurada\\Repositorio_Practicas\\practica5-u20210127\\practica5-u20210127\\practica5-u20210127.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Moises Carranza\\Desktop\\Practicas_Ciclo 2 - 2023\\Programación Estructurada\\Repositorio_Practicas\\practica5-u20210127\\practica5-u20210127.csproj": {
+    "c:\\Users\\Moises Carranza\\Desktop\\Practicas_Ciclo 2 - 2023\\Programación Estructurada\\Repositorio_Practicas\\practica5-u20210127\\practica5-u20210127\\practica5-u20210127.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Moises Carranza\\Desktop\\Practicas_Ciclo 2 - 2023\\Programación Estructurada\\Repositorio_Practicas\\practica5-u20210127\\practica5-u20210127.csproj",
+        "projectUniqueName": "c:\\Users\\Moises Carranza\\Desktop\\Practicas_Ciclo 2 - 2023\\Programación Estructurada\\Repositorio_Practicas\\practica5-u20210127\\practica5-u20210127\\practica5-u20210127.csproj",
         "projectName": "practica5-u20210127",
-        "projectPath": "C:\\Users\\Moises Carranza\\Desktop\\Practicas_Ciclo 2 - 2023\\Programación Estructurada\\Repositorio_Practicas\\practica5-u20210127\\practica5-u20210127.csproj",
+        "projectPath": "c:\\Users\\Moises Carranza\\Desktop\\Practicas_Ciclo 2 - 2023\\Programación Estructurada\\Repositorio_Practicas\\practica5-u20210127\\practica5-u20210127\\practica5-u20210127.csproj",
         "packagesPath": "C:\\Users\\Moises Carranza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Moises Carranza\\Desktop\\Practicas_Ciclo 2 - 2023\\Programación Estructurada\\Repositorio_Practicas\\practica5-u20210127\\obj\\",
+        "outputPath": "c:\\Users\\Moises Carranza\\Desktop\\Practicas_Ciclo 2 - 2023\\Programación Estructurada\\Repositorio_Practicas\\practica5-u20210127\\practica5-u20210127\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
